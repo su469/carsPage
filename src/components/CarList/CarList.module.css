@@ -1,0 +1,70 @@
+.listPage {
+  width: 100%;
+  height: auto;
+  background: linear-gradient(
+    0deg,
+    rgb(25 55 109 0.2) 0% rgb(25 55 109 1) 100%
+  );
+}
+.listRow {
+  margin: 20px 20px;
+}
+.listCard {
+  border: 1px solid #5d5d5d;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.cardImage {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+}
+.cardName{
+  color:black;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "Roboto";
+
+}
+.cardprice{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Roboto";
+   margin-bottom: 0px;
+}
+.cardDetails{
+   color:#1b1045;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Roboto";
+   
+}
+.viewButton{
+  padding: 5px 8px;
+  border: 1px solid  #139AAA;
+  border-radius: 4px 4px 4px;
+  background-color:  #139AAA;
+  letter-spacing: 1px;
+}
+.unavailButton{
+   padding: 5px 8px;
+  border: 1px solid  #ac231f;
+  border-radius: 4px 4px 4px;
+  background-color: #ac231f;
+  letter-spacing: 1px;
+  cursor: none !important;
+}
+@media screen and (max-width: 830px) {
+  .cardImage {
+  width: 100%;
+  height: auto;
+}
+}
+@media screen and (max-width: 920px) {
+  .cardImage {
+  width: 100%;
+  height: auto;
+}
+}
+

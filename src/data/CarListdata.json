@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Honda City",
+    "price": "₹3,000/day",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": "5-seater",
+    "available": true,
+    "image": "/assets/carlistimages/b.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Maruti Suzuki Swift ",
+    "price": "₹2,000/day",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": "4-seater",
+    "available": false,
+    "image": "/assets/carlistimages/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hyundai Creta",
+    "price": "₹4,500/day",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": "5-seater",
+    "available": true,
+    "image": "/assets/carlistimages/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Audi A4",
+    "price": "₹5,800/day",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": "5-seater",
+    "available": false,
+    "image": "/assets/carlistimages/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BMW X5",
+    "price": "₹6,700/day",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": "5-seater",
+    "available": true,
+    "image": "/assets/carlistimages/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tesla Model 3",
+    "price": "₹5,000/day",
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": "5-seater",
+    "available": false,
+    "image": "/assets/carlistimages/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Toyota Fortuner",
+    "price": "₹9,800/day",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": "7-seater",
+    "available": true,
+    "image": "/assets/carlistimages/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mahindra XUV700",
+    "price": "₹6,600/day",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": "7-seater",
+    "available": true,
+    "image": "/assets/carlistimages/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kia Seltos",
+    "price": "₹8,400/day",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": "7-seater",
+    "available": false,
+    "image": "/assets/carlistimages/10.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tata Nexon",
+    "price": "₹5,400/day",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": "5-seater",
+    "available": false,
+    "image": "/assets/carlistimages/9.jpg"
+  }
+]

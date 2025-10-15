@@ -1,0 +1,23 @@
+.sectionDetails {
+  margin-top: 70px;
+  width: 100%;
+}
+.cardDetails {
+  width: 100%;
+  max-width: 400px;
+  margin: 0px auto;
+  text-align: center;
+  padding: 10px 10px;
+  background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 4px 4px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.para {
+  color: #1f1f1f;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: "Roboto";
+  letter-spacing: 1;
+}

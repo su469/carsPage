@@ -1,0 +1,49 @@
+.DetailsPage {
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+}
+.DetailsCard {
+  width: 40%;
+  margin: 0px auto;
+  text-align: center;
+  border: 1px solid gray;
+  overflow: hidden;
+  border-radius: 4px 4px;
+}
+.carDetailsImage {
+  object-fit: cover;
+  display: block;
+  margin: 3px;
+}
+.name {
+  color: black;
+  font-size: 25px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.carprice{
+  font-size: 20px;
+  font-family: "Roboto";
+  font-weight: 400;
+  color:brown;
+}
+.carType{
+   font-size: 20px;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+.CarDetailsButton {
+  width: 100px;
+  height: 40px;
+  border: 1px solid greenyellow;
+  border-radius: 5px 6px 5px;
+  background-color: green;
+  margin-bottom: 3px;
+  color: white;
+}
+@media screen and (max-width: 830px){
+  .DetailsCard{
+    width: 80%;
+  }
+}
